@@ -8,3 +8,8 @@ Fundamental concepts and practical implementations in statistical machine learni
    - Ordinary Least Squares
    - Bayesian Linear Regression
    - Posterior Predictive Distribution
+4. Gaussian Processes Regresion and its Applications
+   - Gaussian Process Regression
+   - Bayesian Optimization
+5. Multinomial logistic regression
+6. Introduction to Tensorflow and Tensorflow Probability
